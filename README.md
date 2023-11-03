@@ -1,39 +1,95 @@
+[![mail](https://img.shields.io/badge/bestof1226@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:bestof1226@gmail.com)
+
+👋 I mainly develop the backend with Kotlin and Spring.
+
+### 👨‍💼 Experience
+- TMAP AUTO Intern, SK m&service (2025.01 ~ 2025.02)
+- Department of Computer Science, Kyungpook National University  (2019.03 ~ 2025.02)
+- Flutter Intern, Flash21 (2023.06 ~ 2023.08)
+
+### 🛠 Tech Stack
+#### Frameworks & Languages
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Spring</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Android</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Flutter</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+      </td>
 <!--
-**bayy1216/bayy1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+      <td align="center">
+        <span><strong>React.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
 -->
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7C6DB2?style=flat-square&logo=Kotlin&logoColor=white"/>
-</p>
-<p align="center">
-    <a href="https://dart.dev/">
-      <img algin="center" alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
-    </a>
-    <a href="https://flutter.dev/">
-      <img algin="center" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-    </a>
-    <a href="https://kotlinlang.org/">
-      <img algin="center" alt="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-    </a>
-  </p>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Kotlin</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Dart</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+#### Database
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>MySQL</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+<!--
+      <td width="80px" align="center">
+        <span><strong>Redis</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      </td>
+-->
+    </tr>
+  </tbody>
+</table>
 
+<!--
+#### Etc
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>AWS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Docker</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayy1216&show_icons=true&theme=radical)
+### 📊 Stats 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayy1216&show_icons=true)](https://github.com/bayy1216/bayy1216)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayy1216&layout=compact)](https://github.com/bayy1216/bayy1216)﻿
