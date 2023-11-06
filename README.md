@@ -12,13 +12,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7C6DB2?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
 
-<br>
 
-
-## 📚 Projects 📚
-- [Flash21 계약관리 App] (2023.06.20 ~ 2023.08.21)
-- [경북대 학과별 공지사항 App](https://play.google.com/store/apps/details?id=com.reditus.knu_helper) (2023.07.15 ~ 2023.07.20)
-- [구인구직, 자리예매 App] (2023.09.05 ~ )
 
 
 <br>
