@@ -1,4 +1,4 @@
-## 🐥Hello🐥
+## 🐥 Hello 🐥
 - 경북대학교 컴퓨터학부 학생입니다
 - 앱개발 & 백엔드에 관심을 가지고 공부하고 있습니다.
 
@@ -12,8 +12,18 @@
   <img src="https://img.shields.io/badge/Kotlin-7C6DB2?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
 
+<br>
+
+## 😾 Studying Nowadays 😾
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7C6DB2?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 
+</p>
 
 <br>
 
