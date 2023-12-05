@@ -1,8 +1,7 @@
 ## 🐥 Hello 🐥
 - 경북대학교 컴퓨터학부 학생입니다
 - 앱개발 & 백엔드에 관심을 가지고 공부하고 있습니다.
-
-
+- [⌖포트폴리오⌖](https://grave-foe-3c7.notion.site/7f3a52d3b44e4b4396b74563c745b257?pvs=4)
 <br>
 
 ## 📚 Tech Stack 📚
