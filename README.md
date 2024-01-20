@@ -1,10 +1,9 @@
-## Profile
-- 경북대학교 컴퓨터학부 학생입니다
-- 앱개발 & 백엔드에 관심을 가지고 공부하고 있습니다.
+## $\bf{Profile}$
+- $\rm{경북대학교\ 컴퓨터학부\ 심화컴퓨터공학전공}$
 - [포트폴리오](https://grave-foe-3c7.notion.site/7f3a52d3b44e4b4396b74563c745b257?pvs=4)
 <br>
 
-## Studying
+## $\bf{Skills}$
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -26,7 +25,5 @@
 <br>
 
 
-## Github Stats
-<div align="left">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayy1216&show_icons=true&theme=radical)
+### $\bf{Github\ Graph}$
+<img src="https://github.com/bayy1216/bayy1216/blob/output/github-contribution-grid-snake.svg"/>
