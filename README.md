@@ -1,6 +1,6 @@
 ## $\bf{Profile}$
 - $\rm{경북대학교\ 컴퓨터학부\ 심화컴퓨터공학전공}$
-- [포트폴리오](https://grave-foe-3c7.notion.site/7f3a52d3b44e4b4396b74563c745b257?pvs=4)
+- [포트폴리오A](https://grave-foe-3c7.notion.site/7f3a52d3b44e4b4396b74563c745b257?pvs=4)/[포트폴리오B](https://www.rallit.com/resumes/275876@bayyyy/%EC%86%90%ED%99%8D%EC%84%9D)
 <br>
 
 ## $\bf{Skills}$
