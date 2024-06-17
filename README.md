@@ -33,5 +33,5 @@
 <br>
 
 
-### $\bf{Github\ Graph}$
-<img src="https://github.com/bayy1216/bayy1216/blob/output/github-contribution-grid-snake.svg"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayy1216&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayy1216&layout=compact)](https://github.com/bayy1216/bayy1216)﻿
