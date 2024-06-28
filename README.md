@@ -1,9 +1,8 @@
-## $\bf{Profile}$
-- $\rm{경북대학교\ 컴퓨터학부\ 심화컴퓨터공학전공}$
-- [포트폴리오](https://www.rallit.com/resumes/275876@bayyyy/%EC%86%90%ED%99%8D%EC%84%9D)
+## Profile
+- 제너럴리스트이자 좋은 스페셜리스트를 꿈꾸며 백엔드를 공부하고 있습니다.
 <br>
 
-## $\bf{Skills}$
+## Skills
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
